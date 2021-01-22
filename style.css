@@ -1,0 +1,12 @@
+h1 {
+    color: cyan;
+}
+
+#header {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
